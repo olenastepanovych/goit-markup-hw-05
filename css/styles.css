@@ -678,25 +678,7 @@ color: #434455;
     margin-bottom: 16px;
 }
 
-.user-name {
-    display: block;
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04em;
-    color: #8e8f99;
-    margin-bottom: 4px;
-}
-
-.user-phone {
-    display: block;
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04em;
-    color: #8e8f99;
-    margin-bottom: 4px;
-}
-
-.user-email {
+.modal-label {
     display: block;
     font-size: 12px;
     line-height: 1.17;
